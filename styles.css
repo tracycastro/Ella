@@ -1,0 +1,22 @@
+body {
+  display: grid;
+  place-content: center;
+  color: tomato;
+  background-color: papayawhip;
+  min-height: 100vh;
+  overflow-y: hidden;
+}
+
+h1 {
+  font-size: 2rem;
+  font-family: sans-serif;
+}
+
+h1,
+p {
+  text-align: center;
+  margin-block: 0;
+}
+p {
+  padding-block: 1rem;
+}
